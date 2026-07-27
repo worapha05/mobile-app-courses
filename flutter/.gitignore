@@ -1,0 +1,49 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+*.keystore
+*.jks
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcodeproj/project.xcworkspace
+ios/Runner.xcodeproj/xcuserdata
+
+# macOS
+macos/Pods/
+macos/.symlinks/
+macos/Runner.xcodeproj/project.xcworkspace
+macos/Runner.xcodeproj/xcuserdata
+
+# Web
+web/firebase-messaging-sw.js
+web/pwa-signature
+
+# Testing
+coverage/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
